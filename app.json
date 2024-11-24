@@ -4,6 +4,8 @@
     "slug": "fintech-app",
     "version": "1.0.0",
 
+    "newArchEnabled": true,
+
     "scheme": "fintech-app",
     "web": {
       "bundler": "metro",
